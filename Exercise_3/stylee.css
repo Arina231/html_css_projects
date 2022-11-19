@@ -9,7 +9,7 @@
   border: 5px solid #000;
   padding: auto auto;
   margin: auto auto;
-  width: 1200px;
+  /* width: 1200px; */
   position: relative;
 }
 body {
@@ -26,7 +26,7 @@ body {
   margin: 0;
   float: left;
 }
-.add-cart .shippment {
+.shippment {
   font-size: 13px;
   font-weight: bold;
   text-transform: uppercase;
@@ -90,7 +90,7 @@ body {
   text-transform: uppercase;
   cursor: pointer;
   padding: 12px;
-  width: 1192px;
+  width: 100%;
   border-top: 5px solid black;
 }
 .add-cart:hover,
@@ -120,4 +120,12 @@ body {
 }
 .color-orange {
   background-color: rgb(255, 68, 0);
+}
+.clearfix-part {
+  display: flex;
+  justify-content: space-around;
+}
+.mid-part {
+  margin-left: 10px;
+  margin-right: 10px;
 }
