@@ -121,15 +121,3 @@ body {
 .color-orange {
   background-color: rgb(255, 68, 0);
 }
-.part {
-  float: left;
-}
-.part-mid {
-  float: left;
-}
-.last-part {
-  float: left;
-}
-.clearfix-part {
-  clear: both;
-}
