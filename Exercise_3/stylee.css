@@ -6,7 +6,7 @@
 
 .product {
   border: 5px solid #000;
-  padding: auto auto;
+
   margin: 50px auto;
   width: 825px;
   position: relative;
@@ -17,9 +17,9 @@ body {
 }
 .product-name {
   text-align: center;
-  font-size: 25px;
-  margin-top: 15 px;
+
   margin-bottom: 15px;
+  margin-top: 15px;
 }
 .price {
   font-size: 22px;
@@ -78,6 +78,7 @@ body {
 }
 .list li {
   margin-bottom: 10px;
+  margin-right: 10px;
 }
 .add-cart {
   background-color: #000;
@@ -122,9 +123,7 @@ body {
   display: flex;
   justify-content: space-around;
 }
-.items {
-  flex-grow: 1;
-}
+
 .mid-part {
   margin-left: 20px;
   margin-right: 20px;
@@ -136,4 +135,6 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
   align-items: center;
+}
+.last-part {
 }
