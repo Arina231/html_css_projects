@@ -24,6 +24,7 @@ h1 {
 h2 {
   font-size: 40px;
   position: relative;
+  margin-top: 0px;
 }
 
 h3 {
@@ -146,15 +147,16 @@ button {
   bottom: 20px;
   right: 50px;
 }
-/* .author {
+.author {
   display: flex;
   align-items: center;
   margin-bottom: 10px;
-} */
+}
 .author-name {
   margin-left: 25px;
   margin-top: 0px;
-  font-size: 20px;
+  margin-bottom: 0px;
+  font-size: 18px;
 }
 /* .sided {
   display: flex;
@@ -165,13 +167,13 @@ button {
   font-weight: bold;
   font-style: normal;
 }
-/* .related-post {
+.related-post {
   display: flex;
   align-items: center;
   margin-bottom: 15px;
   justify-items: center;
   gap: 10px;
-} */
+}
 .related-post p {
   font-size: 15px;
   font-style: italic;
@@ -182,10 +184,19 @@ button {
 .container {
   display: grid;
   grid-template-columns: 1fr 300px;
+  column-gap: 75px;
+  row-gap: 60px;
+  margin-left: 200px;
+  margin-right: 200px;
+  align-items: start;
 }
 
 .main-header {
+  display: grid;
   grid-column: 1 / span 2;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  column-gap: 780px;
 }
 
 article {
@@ -195,4 +206,5 @@ aside {
 }
 
 footer {
+  grid-column: 1/-1;
 }
