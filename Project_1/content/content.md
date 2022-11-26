@@ -137,3 +137,5 @@ Privacy & terms
 -price
 -gallery
 -testimonial
+-featured in
+-footer
