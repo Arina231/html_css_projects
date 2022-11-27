@@ -128,14 +128,3 @@ Help center
 Privacy & terms
 
 ##### Section
-
--hero
--features
--how it works
--meal
--call to action
--price
--gallery
--testimonial
--featured in
--footer
