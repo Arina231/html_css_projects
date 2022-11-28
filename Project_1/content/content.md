@@ -129,13 +129,12 @@ Privacy & terms
 
 ##### Section
 
+-logo + navigation
 -hero
--features
--how it works
--meal
--call to action
--price
--gallery
--testimonial
 -featured in
+-how it works
+-meal (and the list of diets)
+-testimonials + gallery
+-pricing + features
+-cta
 -footer
