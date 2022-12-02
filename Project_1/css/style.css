@@ -181,6 +181,10 @@
 .section-meals {
   padding: 9.6rem 0;
 }
+.meal {
+  box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
+  border-radius: 12px;
+}
 .meal-tags {
   margin-bottom: 1.2rem;
 }
