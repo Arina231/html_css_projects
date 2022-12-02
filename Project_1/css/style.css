@@ -183,7 +183,9 @@
 }
 .meal {
   box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
-  border-radius: 12px;
+  border-radius: 11px;
+  overflow: hidden;
+  padding: 4.8rem;
 }
 .meal-tags {
   margin-bottom: 1.2rem;
