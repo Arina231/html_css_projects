@@ -504,7 +504,7 @@
   list-style: none;
   display: flex;
   flex-direction: column;
-  gap: 2.4rem;
+  gap: 3.2rem;
 }
 .contacts {
   font-style: normal;
