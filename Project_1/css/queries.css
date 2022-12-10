@@ -10,4 +10,7 @@ instead, 1rem(root font size) = 1em(current font size) = 16px */
   .heading-primary {
     font-size: 44rem;
   }
+  .gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
