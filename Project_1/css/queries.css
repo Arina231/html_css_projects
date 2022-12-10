@@ -41,10 +41,45 @@ instead, 1rem(root font size) = 1em(current font size) = 16px */
     gap: 3.2rem;
   }
   .testimonials-container {
-    padding: 0 3.2rem;
+    padding: 5.2rem;
   }
 }
 /* /*************** BELOW 944px  tablets***************\ */
 
 @media (max-width: 59em) {
+  html {
+    /* 8/16=50 */
+    font-size: 50%;
+  }
+  .hero {
+    grid-template-columns: 1fr;
+    padding: 0 8rem;
+    gap: 6.4rem;
+  }
+  .hero-img {
+    width: 60%;
+  }
+  .hero-text-box,
+  .hero-img-box {
+    text-align: center;
+  }
+  .delivered-meals {
+    justify-content: center;
+    margin-top: 3.2rem;
+  }
+  .logos img {
+    height: 2.4rem;
+  }
+  .step-number {
+    font-size: 7.4rem;
+  }
+  .meal-content {
+    padding: 2.4rem 3.2rem 3.2rem 3.2rem;
+  }
+  .section-testimonials {
+    grid-template-columns: 1fr;
+  }
+  .gallery {
+    grid-template-columns: repeat(6, 1fr);
+  }
 }
