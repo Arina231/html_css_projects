@@ -132,8 +132,10 @@ Privacy & terms
 -hero
 -featured in
 -how it works
+
 -meal (and the list of diets)
 -testimonials + gallery
 -pricing + features
+
 -cta
 -footer
