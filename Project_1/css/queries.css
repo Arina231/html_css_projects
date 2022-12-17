@@ -106,11 +106,18 @@ instead, 1rem(root font size) = 1em(current font size) = 16px */
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: all 0.5s;
     /* hide nav */
     opacity: 0;
+    /* make it unaccessible to mouse and keyboard */
+    pointer-events: none;
+    /* hide it from screen readers */
+    visibility: hidden;
   }
   .nav-open .main-nav {
     opacity: 1;
+    pointer-events: auto;
+    visibility: visible;
   }
   .main-nav-list {
     flex-direction: column;
