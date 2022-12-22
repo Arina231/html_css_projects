@@ -154,4 +154,7 @@ instead, 1rem(root font size) = 1em(current font size) = 16px */
   .pricing-plan {
     width: 100%;
   }
+  .grid-footer {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
 }
