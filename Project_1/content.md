@@ -87,7 +87,7 @@ Complete: $649 per month
 - Delivery is free
 - Get access to latest recipes
 
-### Photo gallery
+<!-- ### Photo gallery -->
 
 Use the 12 photos we provided
 
