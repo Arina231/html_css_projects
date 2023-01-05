@@ -89,8 +89,6 @@ Complete: $649 per month
 
 ### Photo gallery
 
-Use the 12 photos we provided
-
 ### Customer testimonials
 
 Inexpensive, healthy and great-tasting meals, without even having to order manually! It feels truly magical.
