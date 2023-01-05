@@ -89,7 +89,7 @@ Complete: $649 per month
 
 ### Photo gallery
 
-Use the 12 photos we provided
+Use the photos we provided
 
 ### Customer testimonials
 
