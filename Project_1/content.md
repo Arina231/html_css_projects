@@ -98,10 +98,6 @@ The AI algorithm is crazy good, it chooses the right meals for me every time. It
 Omnifood is a life saver! I just started a company, so there's no time for cooking. I couldn't live without my daily meals now! (Steve Miller)
 I got Omnifood for the whole family, and it frees up so much time! Plus, everything is organic and vegan and without plastic. (Hannah Smith)
 
-### Section with logos of featured publications [see images]
-
-### Contact information
-
 Address: 623 Harrison St., 2nd Floor, San Francisco, CA 94107
 Phone: 415-201-6370
 Email: hello@omnifood.com
