@@ -100,6 +100,8 @@ I got Omnifood for the whole family, and it frees up so much time! Plus, everyth
 
 ### Section with logos of featured publications [see images]
 
+#########################
+
 ### Contact information
 
 Address: 623 Harrison St., 2nd Floor, San Francisco, CA 94107
