@@ -101,6 +101,7 @@ I got Omnifood for the whole family, and it frees up so much time! Plus, everyth
 ### Section with logos of featured publications [see images]
 
 #########################
+#############
 
 ### Contact information
 
