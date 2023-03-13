@@ -23,6 +23,23 @@ const headerEl = document.querySelector(".header");
 btnNavEl.addEventListener("click", function () {
   headerEl.classList.toggle("nav-open");
 });
+///////STCKY NAVIGATION///////
+const sectionHeroEl = document.querySelector(".section-hero");
+const obs = new IntersectionObserver(
+  function (entries) {
+    const ent = entries[0];
+    console.log(ent);
+    if (ent.isIntersecting == false) {
+      document.querySelector(".header").classList.add("sticky");
+    }
+  },
+  {
+    //in the view port
+    root: null,
+    threshold: 0,
+  }
+);
+obs.observe(sectionHeroEl);
 
 ///////////////////////////////////////////////////////////
 // Fixing flexbox gap property missing in some Safari versions
